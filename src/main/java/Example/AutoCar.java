@@ -1,4 +1,6 @@
-public class AutoCar implements Car{
+package Example;
+
+public class AutoCar implements Car {
 
     Engine engine;
 
